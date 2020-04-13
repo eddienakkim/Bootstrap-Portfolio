@@ -2,28 +2,7 @@ body {
     background-image: url(science.png);
 }
 
-#intro {
-    font-family: 'Raleway', sans-serif;
-    font-size: 80px;
-    font-weight: 200px;
-}
 
-#introsub {
-    font-family: 'Raleway', sans-serif;
-}
-
-.jumbotron {
-    background-color: bisque;
-}
-
-#main {
-    background-color: white;
-    border-color: white;
-}
-
-#img {
-    margin: 30px;
-}
 
 #main {
     font-family: 'Raleway', sans-serif;
